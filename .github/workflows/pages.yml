@@ -1,4 +1,4 @@
-name: Build WEB03.3 and deploy
+name: Build WEB03.7 and deploy
 on:
   workflow_dispatch:
   push:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Test scoring and voice gate
-        run: node tests/test-core.cjs && node tests/test-worker.cjs
+        run: node tests/test-core.cjs && node tests/test-worker.cjs && node tests/test-panel.cjs
       - name: Reuse successful WEB01 WASM engine (no rebuild)
         run: |
           mkdir -p engine
@@ -36,7 +36,7 @@ jobs:
           python tools/verify_site.py
           python tools/catalog.py
           mkdir -p /tmp/site
-          cp -r index.html ui.css android.css apple.css platform.js panel.js app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json script models engine .nojekyll /tmp/site/
+          cp -r index.html ui.css android.css apple.css platform.js panel.js app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg aspiration.webp scripture.json script models engine .nojekyll /tmp/site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/site
