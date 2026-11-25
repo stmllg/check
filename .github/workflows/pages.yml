@@ -1,0 +1,53 @@
+name: Build WEB01 and deploy
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get matching Sherpa source and Emscripten
+        run: |
+          git clone --depth 1 https://github.com/k2-fsa/sherpa-onnx.git /tmp/sherpa
+          git -C /tmp/sherpa rev-parse HEAD
+          git clone --depth 1 https://github.com/emscripten-core/emsdk.git /tmp/emsdk
+          /tmp/emsdk/emsdk install 4.0.23
+          /tmp/emsdk/emsdk activate 4.0.23
+      - name: Build model-independent engine
+        run: |
+          python tools/patch_sherpa.py /tmp/sherpa
+          source /tmp/emsdk/emsdk_env.sh
+          cd /tmp/sherpa
+          bash build-wasm-simd-asr.sh
+      - name: Assemble website
+        run: |
+          mkdir -p engine
+          cp /tmp/sherpa/build-wasm-simd-asr/install/bin/wasm/asr/sherpa-onnx-wasm-main-asr.{js,wasm} engine/
+          cp /tmp/sherpa/wasm/asr/sherpa-onnx-asr.js engine/
+          cp /tmp/sherpa/LICENSE engine/LICENSE-sherpa.txt
+          git -C /tmp/sherpa rev-parse HEAD > engine/revision.txt
+          python tools/verify_site.py
+          mkdir -p /tmp/site
+          cp -r index.html app.js worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json models engine .nojekyll /tmp/site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
