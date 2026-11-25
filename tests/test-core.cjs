@@ -8,3 +8,5 @@ const r=row('甲乙丙丁戊己庚辛壬癸');const ins='甲乙丙丁戊啊哦�
 c.reset();assert.equal(c.decide(r,'甲',true,70,0).action,'fail');assert.equal(c.decide(row('甲乙','mantra'),'甲',false,80,0).action,'pass');assert.equal(evaluate(['xin'],'新',false,0,dict).score,100);
 const g=new VoiceGate();assert.equal(g.feed(6),false);assert.equal(g.feed(5),false);assert.equal(g.feed(8),false);assert.equal(g.feed(6),true);assert.equal(g.feed(9),false);g.reset();assert.equal(g.feed(9),false);assert.equal(g.feed(9),true);
 console.log('CORE tests passed');
+
+assert.deepEqual([10,11,12,13,14,15].map(n=>threshold(n,false,70)),[70,72,74,76,78,80]);assert.equal(threshold(12,false,75),79);assert.equal(threshold(30,false,80),90);assert.equal(threshold(12,true,70),30);console.log("WEB03 dynamic threshold tests passed");

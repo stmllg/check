@@ -1,25 +1,31 @@
-背書助手 WEB02 — Android V04.5 辨識核心移植測試版
+背書助手 WEB03 — 同一程式、同一網址、Android / Apple 介面分流
 
-【更新方式：原 check 專案】
-1. 建議先備份目前 WEB01 本機專案（包括 models）。將此 ZIP 全部解壓到目前 GitHub Desktop 的 check 儲存庫根目錄（有 .git 的那一層），同名檔案覆蓋。不要刪除 .git 或 models。ZIP 本身沒有 models 資料夾，故既有分片不會被覆蓋。
-2. 不要再執行「準備模型.cmd」！原來 26 個模型相關檔案已經上傳，保持原樣即可。若全新安裝才需要此工具。
-3. GitHub Desktop 選 check，Summary 填 WEB02，Commit to main，Push origin。
-4. Pages Source 保持 GitHub Actions。Actions 自動執行 Build WEB02 and deploy，build 和 deploy 皆為綠勾才算發布成功。
-5. 本版 GitHub Actions 直接下載目前已發布的 WEB01 engine 三個引擎檔、授權及 revision.txt，避免重新編譯不同的上游版本。如果已發布網站不可讀，建置會明確失敗，不會替換為其他引擎。另一個新增步驟會從 Maven Central 取得 Android 相同的 pinyin4j 2.5.1，使用 Java 產生字典。此流程未在本環境實際執行；請保留 WEB01，若失敗提供紅色錯誤 log。需要備份引擎時可以另保存已發布 engine 檔案。
-6. 用原來成功的三星瀏覽器開啟 https://stmllg.github.io/check/index.html，確認標題 WEB02。如仍舊版，保持連網重新整理，不要清除網站資料。LINE 中先選預設瀏覽器開啟（依 UA 偵測，無法保證所有 LINE 版本都能辨認）。
-7. 點準備辨識模型。同一瀏覽器且同一網站來源，原 OPFS manifest 名稱及 recite-模型版本資料夾均保留；本機模型完整時顯示本次下載 0 MB。網頁及新增字典仍需要更新一次。不要切換瀏覽器或清除資料。
-8. 預設前十句、70%、木魚開啟。開始收音後自動評分與換句，請用自然速度背誦。可改 65/70/75/80%，可選全篇或匯入 V500 JSON（匯入教材暫時只在本次頁面有效）。可停下、手動換句、重測。紅字代表拼音完全相同，天空藍代表有加權匹配，灰字未匹配。
-9. 先正常念，再刻意念錯、插入三字、測試連續快速換句。判錯後等安靜、三下木魚，音效結束加100ms後普通句重新啟動；單字仍等200ms與100ms安靜邊界。這是網頁為隔離提示音增加的保護，與 Android 第三下即重念的時序略不同，須實測是否漏收句首。靜音選項不播提示音。原始 Kotlin 的2500ms最終判定要求已有至少六個發聲批次及非空辨識文字；本版照此保留，無文字時不會單靠2500ms就判錯。
-10. 測試後按停止收音，匯出或複製報告。再用飛航模式重新開啟同一瀏覽器測試。短句測試可匯入 tests/短句測試.json（前十句涵蓋連續單字、二至五字、咒語）。
+【更新】
+1. 備份目前成功的 WEB02。將本 ZIP 解壓至原本 check 儲存庫根目錄（有 .git 的那一層），同名檔案覆蓋。
+2. 保留 .git 和 models/。不必重新執行「準備模型.cmd」，不必清除手機網站資料。
+3. GitHub Desktop：Summary 填 WEB03 → Commit to main → Push origin。
+4. GitHub Pages 維持 GitHub Actions。Build WEB03 and deploy 的 build、deploy 均綠勾後再測試。
+5. 原網址 https://stmllg.github.io/check/index.html 。原三星瀏覽器保持連網重新整理，直到標題 WEB03。
+6. LINE 內建瀏覽器仍提示切換預設瀏覽器，避免模型重複下載。
 
-【已移植】
-PhoneticScorer.kt：100/80/65/45 音節加權、普通經文最大權重對齊、咒語編輯距離、句尾定位、長句前綴選擇及中間插字候選。
-ReciteCore.kt：門檻及字數截止、插字確認、過關/重念判定（不移植只供診斷的 legacy SequenceMatcher）。
-SingleVoiceGate.kt：兩批達到能量6（100ms），一次過關後須重新武裝；單字清回補。
-SpeechEngine.kt：正常換句400ms回補、最近發聲200ms內、epoch/sid隔離、相同句安靜等待、2500ms最終判定。網頁與 Android 排程不同，時間以 Web Worker 音訊批次為基礎，待實機驗證。
-Tones.kt：以原波形參數合成木魚。網頁重念有額外音效隔離，避免單字誤判。
-WEB01 原始模型、16kHz、50ms、Greedy、WASM 單執行緒、OPFS 模型識別與分片驗證維持。
+【操作】
+手機橫放。五行經文可上下滑動，點任一句選擇進度。滑動本身不重設辨識。
+左1 經文：預設入行論第五品、匯入 V500 JSON、選擇全部經文／前十句。匯入後以瀏覽器 localStorage 保存教材及進度；瀏覽器儲存不足時可能無法保存。
+左2 辨識：65/70/75/80% 基準；1字有聲、2字40%、3字50%、4字55%，咒語30%（單字例外），5～10字使用基準；超過10字每字增加2個百分點、最高90%。
+左3 提醒：木魚／靜音（首次預設靜音，依 Android V04.5）。
+左4 顯示：跟著讀／默背；默背已通過句逐句顯示，前一句提示保留。
+右1 準備模型／開始背書／觀看結果；觀察模式中返回經文。
+右2 背書中即時觀察（上一句過關快照＋目前句）；結算中從頭開始。
+右3 結算中持續進度，全文完成後停用。
+右4 圓滿供養：停止收音及保存進度；網頁不能像原生 APK 強制退出，因此保留在網頁。
+齒輪：模型準備、長期保存、測試資訊、匯出／複製報告。
+預設選全部經文。首次按準備模型，原本完整 OPFS 模型應顯示本次下載 0 MB；程式檔更新一次仍需網路。
+錯句回顧：紅字錯句及前後各2句，相鄰範圍合併、分段留白。
 
-【限制】
-此 ZIP 是完整網頁原始碼與部署工具，不包含已存在 GitHub 上的模型或 WASM 二進位，也不包含尚待 Actions 生成的 pinyin.json；不是解壓即可辨識的獨立成品。未實測 WEB02 手機、iPhone、GitHub 新流程或完整字典生成。正式五行大字面板、進度儲存、語音啟動、供養、錯句回顧、實體模型備份留後續階段。只做核心測試。
-本機測試：node --check *.js（逐檔）；node tests/test-core.cjs；node tests/test-worker.cjs（模擬辨識器，不是 WASM 實測）。
+【架構】
+index.html 單一入口，platform.js 偵測裝置，ui.css 共用樣式；android.css 與 apple.css 只處理各自介面。panel.js 同一操作邏輯。app.js 保留 WEB02 收音及辨識控制；worker.js 與 pcm-worklet.js 逐位元不變。recite-core.js 僅改門檻函數。OPFS 模型名稱、manifest 及目錄完全不變。
+Actions 直接取得現有已發布的成功 WASM 引擎，使用 pinyin4j 2.5.1 生成字典，驗證 models 分片後發布。ZIP 不含既有 models、WASM 二進位或待生成 pinyin.json。
+
+【尚待實測與差異】
+本機通過 JS 語法、core 評分及門檻、模擬 worker、Chromium 模擬 Android／Apple UA 與五行面板操作。瀏覽器測試使用模擬字典及收音狀態，非真實 WASM 或手機測試。GitHub 發布及 Android 飛航模式須再次驗證；Apple 尚未實機測試。
+原生 Android 系統亮度控制、語音口令開始／語音提示、經名特別默背流程、原生退出與灑花動畫未移植。本版保留 WEB02 原始語音核心，不另外改動。瀏覽器裝置偵測並非所有 UA 都能保證正確。

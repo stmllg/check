@@ -1,4 +1,4 @@
-name: Build WEB02 and deploy
+name: Build WEB03 and deploy
 on:
   workflow_dispatch:
   push:
@@ -35,7 +35,7 @@ jobs:
         run: |
           python tools/verify_site.py
           mkdir -p /tmp/site
-          cp -r index.html app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json models engine .nojekyll /tmp/site/
+          cp -r index.html ui.css android.css apple.css platform.js panel.js app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json models engine .nojekyll /tmp/site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/site

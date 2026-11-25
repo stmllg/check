@@ -1,0 +1,1 @@
+(()=>{const ua=navigator.userAgent;const apple=/iPhone|iPad|iPod/i.test(ua)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);const android=/Android/i.test(ua);document.documentElement.dataset.platform=apple?'apple':android?'android':'desktop';document.documentElement.dataset.mobile=apple||android?'yes':'no';})();
