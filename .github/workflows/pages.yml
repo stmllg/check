@@ -1,4 +1,4 @@
-name: Build WEB01 and deploy
+name: Build WEB02 and deploy
 on:
   workflow_dispatch:
   push:
@@ -15,29 +15,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Get matching Sherpa source and Emscripten
-        run: |
-          git clone --depth 1 https://github.com/k2-fsa/sherpa-onnx.git /tmp/sherpa
-          git -C /tmp/sherpa rev-parse HEAD
-          git clone --depth 1 https://github.com/emscripten-core/emsdk.git /tmp/emsdk
-          /tmp/emsdk/emsdk install 4.0.23
-          /tmp/emsdk/emsdk activate 4.0.23
-      - name: Build model-independent engine
-        run: |
-          python tools/patch_sherpa.py /tmp/sherpa
-          source /tmp/emsdk/emsdk_env.sh
-          cd /tmp/sherpa
-          bash build-wasm-simd-asr.sh
-      - name: Assemble website
+      - name: Test scoring and voice gate
+        run: node tests/test-core.cjs && node tests/test-worker.cjs
+      - name: Reuse successful WEB01 WASM engine (no rebuild)
         run: |
           mkdir -p engine
-          cp /tmp/sherpa/build-wasm-simd-asr/install/bin/wasm/asr/sherpa-onnx-wasm-main-asr.{js,wasm} engine/
-          cp /tmp/sherpa/wasm/asr/sherpa-onnx-asr.js engine/
-          cp /tmp/sherpa/LICENSE engine/LICENSE-sherpa.txt
-          git -C /tmp/sherpa rev-parse HEAD > engine/revision.txt
+          for f in sherpa-onnx-wasm-main-asr.js sherpa-onnx-wasm-main-asr.wasm sherpa-onnx-asr.js LICENSE-sherpa.txt revision.txt; do
+            curl -fL --retry 3 "https://stmllg.github.io/check/engine/$f" -o "engine/$f"
+          done
+          python -c "from pathlib import Path; assert Path('engine/sherpa-onnx-wasm-main-asr.wasm').read_bytes()[:4]==b'\x00asm'"
+          cat engine/revision.txt
+      - name: Generate original pinyin4j dictionary
+        run: |
+          curl -fL --retry 3 https://repo.maven.apache.org/maven2/com/belerweb/pinyin4j/2.5.1/pinyin4j-2.5.1.jar -o /tmp/pinyin4j.jar
+          javac -cp /tmp/pinyin4j.jar -d /tmp tools/MakePinyin.java
+          java -cp /tmp:/tmp/pinyin4j.jar MakePinyin > pinyin.json
+          python -c "import json; d=json.load(open('pinyin.json')); assert len(d)>10000 and d['佛']"
+      - name: Assemble website
+        run: |
           python tools/verify_site.py
           mkdir -p /tmp/site
-          cp -r index.html app.js worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json models engine .nojekyll /tmp/site/
+          cp -r index.html app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg scripture.json models engine .nojekyll /tmp/site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/site

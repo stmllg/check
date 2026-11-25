@@ -1,0 +1,96 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "佛",
+    "pinyin_syllables": [
+      "fo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "佛",
+    "pinyin_syllables": [
+      "fo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "心",
+    "pinyin_syllables": [
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "正念",
+    "pinyin_syllables": [
+      "zheng",
+      "nian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "菩提心",
+    "pinyin_syllables": [
+      "pu",
+      "ti",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "恭敬背書",
+    "pinyin_syllables": [
+      "gong",
+      "jing",
+      "bei",
+      "shu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "願眾生安樂",
+    "pinyin_syllables": [
+      "yuan",
+      "zhong",
+      "sheng",
+      "an",
+      "le"
+    ]
+  },
+  {
+    "type": "mantra",
+    "sentence_id": 8,
+    "original": "嗡阿吽",
+    "pinyin_syllables": [
+      "ong",
+      "a",
+      "hong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "正念",
+    "pinyin_syllables": [
+      "zheng",
+      "nian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "正念",
+    "pinyin_syllables": [
+      "zheng",
+      "nian"
+    ]
+  }
+]
