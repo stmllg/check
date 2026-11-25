@@ -1,0 +1,1 @@
+請將 V500 校正 JSON 放在這裡；catalog.json 由 GitHub Actions 自動生成。
