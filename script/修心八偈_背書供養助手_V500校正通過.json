@@ -1,0 +1,461 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "修心八偈",
+    "pinyin_syllables": [
+      "xiu",
+      "xin",
+      "ba",
+      "ji"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "我於虛空如母眾",
+    "pinyin_syllables": [
+      "wo",
+      "yu",
+      "xu",
+      "kong",
+      "ru",
+      "mu",
+      "zhong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "視之猶勝如意寶",
+    "pinyin_syllables": [
+      "shi",
+      "zhi",
+      "you",
+      "sheng",
+      "ru",
+      "yi",
+      "bao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "依彼能成究竟利",
+    "pinyin_syllables": [
+      "yi",
+      "bi",
+      "neng",
+      "cheng",
+      "jiu",
+      "jing",
+      "li"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "恆常心懷珍愛惜",
+    "pinyin_syllables": [
+      "heng",
+      "chang",
+      "xin",
+      "huai",
+      "zhen",
+      "ai",
+      "xi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "任與誰等會聚時",
+    "pinyin_syllables": [
+      "ren",
+      "yu",
+      "shui",
+      "deng",
+      "hui",
+      "ju",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "思己較諸他人卑",
+    "pinyin_syllables": [
+      "si",
+      "ji",
+      "jiao",
+      "zhu",
+      "ta",
+      "ren",
+      "bei"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 8,
+    "original": "從心深處視眾生",
+    "pinyin_syllables": [
+      "cong",
+      "xin",
+      "shen",
+      "chu",
+      "shi",
+      "zhong",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "恆常尊他為最勝",
+    "pinyin_syllables": [
+      "heng",
+      "chang",
+      "zun",
+      "ta",
+      "wei",
+      "zui",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "一切威儀觀自心",
+    "pinyin_syllables": [
+      "yi",
+      "qie",
+      "wei",
+      "yi",
+      "guan",
+      "zi",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 11,
+    "original": "微惑尋生即覺察",
+    "pinyin_syllables": [
+      "wei",
+      "huo",
+      "xun",
+      "sheng",
+      "ji",
+      "jue",
+      "cha"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 12,
+    "original": "惑仇唯令自他損",
+    "pinyin_syllables": [
+      "huo",
+      "chou",
+      "wei",
+      "ling",
+      "zi",
+      "ta",
+      "sun"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 13,
+    "original": "願速喝斥令消除",
+    "pinyin_syllables": [
+      "yuan",
+      "su",
+      "he",
+      "chi",
+      "ling",
+      "xiao",
+      "chu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 14,
+    "original": "秉性邪惡諸有情",
+    "pinyin_syllables": [
+      "bing",
+      "xing",
+      "xie",
+      "e",
+      "zhu",
+      "you",
+      "qing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 15,
+    "original": "思彼猛烈罪苦煎",
+    "pinyin_syllables": [
+      "si",
+      "bi",
+      "meng",
+      "lie",
+      "zui",
+      "ku",
+      "jian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 16,
+    "original": "對境如獲珍寶藏",
+    "pinyin_syllables": [
+      "dui",
+      "jing",
+      "ru",
+      "huo",
+      "zhen",
+      "bao",
+      "cang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 17,
+    "original": "難值修悲願珍惜",
+    "pinyin_syllables": [
+      "nan",
+      "zhi",
+      "xiu",
+      "bei",
+      "yuan",
+      "zhen",
+      "xi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 18,
+    "original": "彼雖橫生嫉妒心",
+    "pinyin_syllables": [
+      "bi",
+      "sui",
+      "heng",
+      "sheng",
+      "ji",
+      "du",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 19,
+    "original": "非理辱罵謗我等",
+    "pinyin_syllables": [
+      "fei",
+      "li",
+      "ru",
+      "ma",
+      "bang",
+      "wo",
+      "deng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 20,
+    "original": "盡其損惱我取受",
+    "pinyin_syllables": [
+      "jin",
+      "qi",
+      "sun",
+      "nao",
+      "wo",
+      "qu",
+      "shou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 21,
+    "original": "願將利樂奉獻他",
+    "pinyin_syllables": [
+      "yuan",
+      "jiang",
+      "li",
+      "le",
+      "feng",
+      "xian",
+      "ta"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 22,
+    "original": "我曾於彼利樂施",
+    "pinyin_syllables": [
+      "wo",
+      "ceng",
+      "yu",
+      "bi",
+      "li",
+      "le",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 23,
+    "original": "並與深心寄厚望",
+    "pinyin_syllables": [
+      "bing",
+      "yu",
+      "shen",
+      "xin",
+      "ji",
+      "hou",
+      "wang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 24,
+    "original": "彼卻非理妄加害",
+    "pinyin_syllables": [
+      "bi",
+      "que",
+      "fei",
+      "li",
+      "wang",
+      "jia",
+      "hai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 25,
+    "original": "願仍視為勝導師",
+    "pinyin_syllables": [
+      "yuan",
+      "reng",
+      "shi",
+      "wei",
+      "sheng",
+      "dao",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 26,
+    "original": "直接間接諸利樂",
+    "pinyin_syllables": [
+      "zhi",
+      "jie",
+      "jian",
+      "jie",
+      "zhu",
+      "li",
+      "le"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 27,
+    "original": "願集奉獻如母眾",
+    "pinyin_syllables": [
+      "yuan",
+      "ji",
+      "feng",
+      "xian",
+      "ru",
+      "mu",
+      "zhong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 28,
+    "original": "如母有情眾苦迫",
+    "pinyin_syllables": [
+      "ru",
+      "mu",
+      "you",
+      "qing",
+      "zhong",
+      "ku",
+      "po"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 29,
+    "original": "我願暗中盡取受",
+    "pinyin_syllables": [
+      "wo",
+      "yuan",
+      "an",
+      "zhong",
+      "jin",
+      "qu",
+      "shou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 30,
+    "original": "願將所修一切善",
+    "pinyin_syllables": [
+      "yuan",
+      "jiang",
+      "suo",
+      "xiu",
+      "yi",
+      "qie",
+      "shan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 31,
+    "original": "莫為八法所垢染",
+    "pinyin_syllables": [
+      "mo",
+      "wei",
+      "ba",
+      "fa",
+      "suo",
+      "gou",
+      "ran"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 32,
+    "original": "深觀諸法皆如幻",
+    "pinyin_syllables": [
+      "shen",
+      "guan",
+      "zhu",
+      "fa",
+      "jie",
+      "ru",
+      "huan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 33,
+    "original": "離執離繫得解脫",
+    "pinyin_syllables": [
+      "li",
+      "zhi",
+      "li",
+      "xi",
+      "de",
+      "jie",
+      "tuo"
+    ]
+  }
+]
