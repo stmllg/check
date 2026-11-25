@@ -1,4 +1,4 @@
-name: Build WEB03.1 and deploy
+name: Build WEB03.2 and deploy
 on:
   workflow_dispatch:
   push:
