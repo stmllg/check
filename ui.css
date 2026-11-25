@@ -32,3 +32,5 @@
 #boot .bootCaption{position:absolute;z-index:2;left:35%;right:3%;bottom:3%;text-align:center;display:flex;flex-direction:column;align-items:center;gap:4px;pointer-events:none}
 #boot .bootCaption p{font-size:clamp(11px,1.8vw,18px);color:#fff;background:#141b46c9;padding:3px 10px;border-radius:8px}#bootProgress{height:8px}#retryBoot{pointer-events:auto}
 @media(prefers-reduced-motion:reduce){#hearts .aspireHeart{display:none}#hearts .aspireStar{animation:none;opacity:.65}}
+
+#lineWarning{padding:clamp(5px,1.5dvh,14px);display:flex;align-items:center;justify-content:center}#lineWarning .lineWrap{width:min(100%,760px);margin:auto}#lineWarning .lineCard{padding:clamp(6px,1.7dvh,16px);border-width:2px;border-radius:16px;line-height:1.35}#lineWarning .lineCard section{padding:0}#lineWarning .lineCard h2{font-size:clamp(14px,min(4.8vw,5dvh),30px);margin:0 0 .22em}#lineWarning .lineCard p{font-size:clamp(12px,min(4.2vw,4.1dvh),24px);margin:0}#lineWarning .lineCard hr{margin:clamp(3px,1dvh,10px) 0}#reader:has(.memory){overflow:hidden;scroll-snap-type:none}
