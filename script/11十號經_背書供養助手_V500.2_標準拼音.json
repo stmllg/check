@@ -1,0 +1,1703 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "佛說十號經",
+    "pinyin_syllables": [
+      "fu",
+      "shuo",
+      "shi",
+      "hao",
+      "jing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "如來．應供．正等覺．明行足．",
+    "pinyin_syllables": [
+      "ru",
+      "lai",
+      "ying",
+      "gong",
+      "zheng",
+      "deng",
+      "jue",
+      "ming",
+      "xing",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "善逝．世間解無上士．調御丈夫．",
+    "pinyin_syllables": [
+      "shan",
+      "shi",
+      "shi",
+      "jian",
+      "jie",
+      "wu",
+      "shang",
+      "shi",
+      "diao",
+      "yu",
+      "zhang",
+      "fu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "天人師．佛．世尊。",
+    "pinyin_syllables": [
+      "tian",
+      "ren",
+      "shi",
+      "fu",
+      "shi",
+      "zun"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "阿難白言：「云何如來？」",
+    "pinyin_syllables": [
+      "a",
+      "nan",
+      "bai",
+      "yan",
+      "yun",
+      "he",
+      "ru",
+      "lai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "佛告：「苾芻！我昔因地",
+    "pinyin_syllables": [
+      "fu",
+      "gao",
+      "bi",
+      "qiu",
+      "wo",
+      "xi",
+      "yin",
+      "di"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "為菩薩時，歷修眾行，",
+    "pinyin_syllables": [
+      "wei",
+      "pu",
+      "sa",
+      "shi",
+      "li",
+      "xiu",
+      "zhong",
+      "xing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 8,
+    "original": "為求無上正等正覺，",
+    "pinyin_syllables": [
+      "wei",
+      "qiu",
+      "wu",
+      "shang",
+      "zheng",
+      "deng",
+      "zheng",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "今得菩提涅槃一切真實，",
+    "pinyin_syllables": [
+      "jin",
+      "de",
+      "pu",
+      "ti",
+      "nie",
+      "pan",
+      "yi",
+      "qie",
+      "zhen",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "以八聖道正見所證，名為如來；",
+    "pinyin_syllables": [
+      "yi",
+      "ba",
+      "sheng",
+      "dao",
+      "zheng",
+      "jian",
+      "suo",
+      "zheng",
+      "ming",
+      "wei",
+      "ru",
+      "lai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 11,
+    "original": "如過去正等正覺，調伏息心，",
+    "pinyin_syllables": [
+      "ru",
+      "guo",
+      "qu",
+      "zheng",
+      "deng",
+      "zheng",
+      "jue",
+      "diao",
+      "fu",
+      "xi",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 12,
+    "original": "得至涅槃，故名如來。」",
+    "pinyin_syllables": [
+      "de",
+      "zhi",
+      "nie",
+      "pan",
+      "gu",
+      "ming",
+      "ru",
+      "lai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 13,
+    "original": "「云何應供？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "ying",
+      "gong",
+      "fo",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 14,
+    "original": "「昔在因位所行善法威儀戒品，",
+    "pinyin_syllables": [
+      "xi",
+      "zai",
+      "yin",
+      "wei",
+      "suo",
+      "xing",
+      "shan",
+      "fa",
+      "wei",
+      "yi",
+      "jie",
+      "pin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 15,
+    "original": "十善根力修令增長，",
+    "pinyin_syllables": [
+      "shi",
+      "shan",
+      "gen",
+      "li",
+      "xiu",
+      "ling",
+      "zeng",
+      "zhang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 16,
+    "original": "如是修習圓滿至究竟位，",
+    "pinyin_syllables": [
+      "ru",
+      "shi",
+      "xiu",
+      "xi",
+      "yuan",
+      "man",
+      "zhi",
+      "jiu",
+      "jing",
+      "wei"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 17,
+    "original": "證涅槃時斷盡一切煩惱，",
+    "pinyin_syllables": [
+      "zheng",
+      "nie",
+      "pan",
+      "shi",
+      "duan",
+      "jin",
+      "yi",
+      "qie",
+      "fan",
+      "nao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 18,
+    "original": "令身、口、意清淨無染，永害煩惱",
+    "pinyin_syllables": [
+      "ling",
+      "shen",
+      "kou",
+      "yi",
+      "qing",
+      "jing",
+      "wu",
+      "ran",
+      "yong",
+      "hai",
+      "fan",
+      "nao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 19,
+    "original": "如斷多羅樹頭，永不生芽。",
+    "pinyin_syllables": [
+      "ru",
+      "duan",
+      "duo",
+      "luo",
+      "shu",
+      "tou",
+      "yong",
+      "bu",
+      "sheng",
+      "ya"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 20,
+    "original": "復次貪、瞋、癡等煩惱盡故，",
+    "pinyin_syllables": [
+      "fu",
+      "ci",
+      "tan",
+      "chen",
+      "chi",
+      "deng",
+      "fan",
+      "nao",
+      "jin",
+      "gu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 21,
+    "original": "一切諸趣永不結生，",
+    "pinyin_syllables": [
+      "yi",
+      "qie",
+      "zhu",
+      "qu",
+      "yong",
+      "bu",
+      "jie",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 22,
+    "original": "超過四難 生、老、病、死",
+    "pinyin_syllables": [
+      "chao",
+      "guo",
+      "si",
+      "nan",
+      "sheng",
+      "lao",
+      "bing",
+      "si"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 23,
+    "original": "苦果之法，惑苦二種而永不生，",
+    "pinyin_syllables": [
+      "ku",
+      "guo",
+      "zhi",
+      "fa",
+      "huo",
+      "ku",
+      "er",
+      "zhong",
+      "er",
+      "yong",
+      "bu",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 24,
+    "original": "立應供號。復次，令彼世間所有",
+    "pinyin_syllables": [
+      "li",
+      "ying",
+      "gong",
+      "hao",
+      "fu",
+      "ci",
+      "ling",
+      "bi",
+      "shi",
+      "jian",
+      "suo",
+      "you"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 25,
+    "original": "衣服、臥具、飲食、湯藥、",
+    "pinyin_syllables": [
+      "yi",
+      "fu",
+      "wo",
+      "ju",
+      "yin",
+      "shi",
+      "tang",
+      "yao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 26,
+    "original": "幢幡、寶蓋、香花、燈菓，",
+    "pinyin_syllables": [
+      "chuang",
+      "fan",
+      "bao",
+      "gai",
+      "xiang",
+      "hua",
+      "deng",
+      "guo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 27,
+    "original": "及天上人間最上之物，供養於佛，",
+    "pinyin_syllables": [
+      "ji",
+      "tian",
+      "shang",
+      "ren",
+      "jian",
+      "zui",
+      "shang",
+      "zhi",
+      "wu",
+      "gong",
+      "yang",
+      "yu",
+      "fu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 28,
+    "original": "獲得最上富貴吉祥之福，",
+    "pinyin_syllables": [
+      "huo",
+      "de",
+      "zui",
+      "shang",
+      "fu",
+      "gui",
+      "ji",
+      "xiang",
+      "zhi",
+      "fu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 29,
+    "original": "是名應供之號。」",
+    "pinyin_syllables": [
+      "shi",
+      "ming",
+      "ying",
+      "gong",
+      "zhi",
+      "hao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 30,
+    "original": "「云何正等覺？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "zheng",
+      "deng",
+      "jue",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 31,
+    "original": "「如來具一切智，於一切處無不了知，",
+    "pinyin_syllables": [
+      "ru",
+      "lai",
+      "ju",
+      "yi",
+      "qie",
+      "zhi",
+      "yu",
+      "yi",
+      "qie",
+      "chu",
+      "wu",
+      "bu",
+      "liao",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 32,
+    "original": "以四念處、四正斷、四神足、",
+    "pinyin_syllables": [
+      "yi",
+      "si",
+      "nian",
+      "chu",
+      "si",
+      "zheng",
+      "duan",
+      "si",
+      "shen",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 33,
+    "original": "五根、五力、七覺支、",
+    "pinyin_syllables": [
+      "wu",
+      "gen",
+      "wu",
+      "li",
+      "qi",
+      "jue",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 34,
+    "original": "八聖道、十二緣生、",
+    "pinyin_syllables": [
+      "ba",
+      "sheng",
+      "dao",
+      "shi",
+      "er",
+      "yuan",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 35,
+    "original": "四諦法等如是之法，",
+    "pinyin_syllables": [
+      "si",
+      "di",
+      "fa",
+      "deng",
+      "ru",
+      "shi",
+      "zhi",
+      "fa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 36,
+    "original": "平等開覺一切眾生，",
+    "pinyin_syllables": [
+      "ping",
+      "deng",
+      "kai",
+      "jue",
+      "yi",
+      "qie",
+      "zhong",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 37,
+    "original": "令起智斷惑，證須陀洹果、",
+    "pinyin_syllables": [
+      "ling",
+      "qi",
+      "zhi",
+      "duan",
+      "huo",
+      "zheng",
+      "xu",
+      "tuo",
+      "huan",
+      "guo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 38,
+    "original": "斯陀含果、阿那含果、",
+    "pinyin_syllables": [
+      "si",
+      "tuo",
+      "han",
+      "guo",
+      "a",
+      "na",
+      "han",
+      "guo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 39,
+    "original": "阿羅漢，具三明、六通，",
+    "pinyin_syllables": [
+      "a",
+      "luo",
+      "han",
+      "ju",
+      "san",
+      "ming",
+      "liu",
+      "tong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 40,
+    "original": "復於大乘作意思求，",
+    "pinyin_syllables": [
+      "fu",
+      "yu",
+      "da",
+      "cheng",
+      "zuo",
+      "yi",
+      "si",
+      "qiu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 41,
+    "original": "歷修諸地，斷盡結習，",
+    "pinyin_syllables": [
+      "li",
+      "xiu",
+      "zhu",
+      "di",
+      "duan",
+      "jin",
+      "jie",
+      "xi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 42,
+    "original": "成無上覺，此名正等正覺。」",
+    "pinyin_syllables": [
+      "cheng",
+      "wu",
+      "shang",
+      "jue",
+      "ci",
+      "ming",
+      "zheng",
+      "deng",
+      "zheng",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 43,
+    "original": "「云何明行足？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "ming",
+      "xing",
+      "zu",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 44,
+    "original": "「明，謂：天眼明、宿命明、漏盡明；",
+    "pinyin_syllables": [
+      "ming",
+      "wei",
+      "tian",
+      "yan",
+      "ming",
+      "su",
+      "ming",
+      "ming",
+      "lou",
+      "jin",
+      "ming"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 45,
+    "original": "行足者，為如來身、口、意業，",
+    "pinyin_syllables": [
+      "xing",
+      "zu",
+      "zhe",
+      "wei",
+      "ru",
+      "lai",
+      "shen",
+      "kou",
+      "yi",
+      "ye"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 46,
+    "original": "善修滿足，正真清淨。",
+    "pinyin_syllables": [
+      "shan",
+      "xiu",
+      "man",
+      "zu",
+      "zheng",
+      "zhen",
+      "qing",
+      "jing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 47,
+    "original": "如有大衣鉢等，",
+    "pinyin_syllables": [
+      "ru",
+      "you",
+      "da",
+      "yi",
+      "bo",
+      "deng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 48,
+    "original": "自在觀照而無愛著，",
+    "pinyin_syllables": [
+      "zi",
+      "zai",
+      "guan",
+      "zhao",
+      "er",
+      "wu",
+      "ai",
+      "zhuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 49,
+    "original": "於自願力一切之行，",
+    "pinyin_syllables": [
+      "yu",
+      "zi",
+      "yuan",
+      "li",
+      "yi",
+      "qie",
+      "zhi",
+      "xing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 50,
+    "original": "修令滿足，號明行足。」",
+    "pinyin_syllables": [
+      "xiu",
+      "ling",
+      "man",
+      "zu",
+      "hao",
+      "ming",
+      "xing",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 51,
+    "original": "「云何善逝？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "shan",
+      "shi",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 52,
+    "original": "「即妙往之義，如貪、瞋、癡等",
+    "pinyin_syllables": [
+      "ji",
+      "miao",
+      "wang",
+      "zhi",
+      "yi",
+      "ru",
+      "tan",
+      "chen",
+      "chi",
+      "deng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 53,
+    "original": "引諸有情往彼惡趣，非名善逝。",
+    "pinyin_syllables": [
+      "yin",
+      "zhu",
+      "you",
+      "qing",
+      "wang",
+      "bi",
+      "e",
+      "qu",
+      "fei",
+      "ming",
+      "shan",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 54,
+    "original": "如來正智能斷諸惑，妙出世間，",
+    "pinyin_syllables": [
+      "ru",
+      "lai",
+      "zheng",
+      "zhi",
+      "neng",
+      "duan",
+      "zhu",
+      "huo",
+      "miao",
+      "chu",
+      "shi",
+      "jian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 55,
+    "original": "能往佛果，故名善逝。」",
+    "pinyin_syllables": [
+      "neng",
+      "wang",
+      "fu",
+      "guo",
+      "gu",
+      "ming",
+      "shan",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 56,
+    "original": "「云何世間解無上士？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "shi",
+      "jian",
+      "jie",
+      "wu",
+      "shang",
+      "shi",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 57,
+    "original": "「世間者，謂欲界、色界、無色界。",
+    "pinyin_syllables": [
+      "shi",
+      "jian",
+      "zhe",
+      "wei",
+      "yu",
+      "jie",
+      "se",
+      "jie",
+      "wu",
+      "se",
+      "jie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 58,
+    "original": "地獄、餓鬼、傍生等類，",
+    "pinyin_syllables": [
+      "di",
+      "yu",
+      "e",
+      "gui",
+      "bang",
+      "sheng",
+      "deng",
+      "lei"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 59,
+    "original": "各具色蘊、受蘊、想蘊、",
+    "pinyin_syllables": [
+      "ge",
+      "ju",
+      "se",
+      "yun",
+      "shou",
+      "yun",
+      "xiang",
+      "yun"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 60,
+    "original": "行蘊、識蘊，眼根、耳根、",
+    "pinyin_syllables": [
+      "xing",
+      "yun",
+      "shi",
+      "yun",
+      "yan",
+      "gen",
+      "er",
+      "gen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 61,
+    "original": "鼻根、舌根、身根、意根，",
+    "pinyin_syllables": [
+      "bi",
+      "gen",
+      "she",
+      "gen",
+      "shen",
+      "gen",
+      "yi",
+      "gen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 62,
+    "original": "及彼六識所緣境等",
+    "pinyin_syllables": [
+      "ji",
+      "bi",
+      "liu",
+      "shi",
+      "suo",
+      "yuan",
+      "jing",
+      "deng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 63,
+    "original": "一切諸法，名曰世間。",
+    "pinyin_syllables": [
+      "yi",
+      "qie",
+      "zhu",
+      "fa",
+      "ming",
+      "yue",
+      "shi",
+      "jian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 64,
+    "original": "正覺正知名世間解。",
+    "pinyin_syllables": [
+      "zheng",
+      "jue",
+      "zheng",
+      "zhi",
+      "ming",
+      "shi",
+      "jian",
+      "jie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 65,
+    "original": "又彼世間所有二足、四足、",
+    "pinyin_syllables": [
+      "you",
+      "bi",
+      "shi",
+      "jian",
+      "suo",
+      "you",
+      "er",
+      "zu",
+      "si",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 66,
+    "original": "多足、無足、欲色諸天、",
+    "pinyin_syllables": [
+      "duo",
+      "zu",
+      "wu",
+      "zu",
+      "yu",
+      "se",
+      "zhu",
+      "tian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 67,
+    "original": "有想無想、非有想非無想、",
+    "pinyin_syllables": [
+      "you",
+      "xiang",
+      "wu",
+      "xiang",
+      "fei",
+      "you",
+      "xiang",
+      "fei",
+      "wu",
+      "xiang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 68,
+    "original": "若凡若聖，一切有情之中，",
+    "pinyin_syllables": [
+      "ruo",
+      "fan",
+      "ruo",
+      "sheng",
+      "yi",
+      "qie",
+      "you",
+      "qing",
+      "zhi",
+      "zhong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 69,
+    "original": "唯佛第一最上無等，名無上士。」",
+    "pinyin_syllables": [
+      "wei",
+      "fu",
+      "di",
+      "yi",
+      "zui",
+      "shang",
+      "wu",
+      "deng",
+      "ming",
+      "wu",
+      "shang",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 70,
+    "original": "「云何調御丈夫？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "tiao",
+      "yu",
+      "zhang",
+      "fu",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 71,
+    "original": "「佛是大丈夫，而能調御善惡二類。",
+    "pinyin_syllables": [
+      "fu",
+      "shi",
+      "da",
+      "zhang",
+      "fu",
+      "er",
+      "neng",
+      "tiao",
+      "yu",
+      "shan",
+      "e",
+      "er",
+      "lei"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 72,
+    "original": "惡者，起不善三業，而作諸惡，",
+    "pinyin_syllables": [
+      "e",
+      "zhe",
+      "qi",
+      "bu",
+      "shan",
+      "san",
+      "ye",
+      "er",
+      "zuo",
+      "zhu",
+      "e"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 73,
+    "original": "墮地獄、餓鬼、傍生而得惡報；",
+    "pinyin_syllables": [
+      "duo",
+      "di",
+      "yu",
+      "e",
+      "gui",
+      "bang",
+      "sheng",
+      "er",
+      "de",
+      "e",
+      "bao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 74,
+    "original": "善者，於身、口、意而修眾善，",
+    "pinyin_syllables": [
+      "shan",
+      "zhe",
+      "yu",
+      "shen",
+      "kou",
+      "yi",
+      "er",
+      "xiu",
+      "zhong",
+      "shan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 75,
+    "original": "得人天福果。此之善惡皆由心作，",
+    "pinyin_syllables": [
+      "de",
+      "ren",
+      "tian",
+      "fu",
+      "guo",
+      "ci",
+      "zhi",
+      "shan",
+      "e",
+      "jie",
+      "you",
+      "xin",
+      "zuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 76,
+    "original": "佛以第一義善涅槃之法，",
+    "pinyin_syllables": [
+      "fu",
+      "yi",
+      "di",
+      "yi",
+      "yi",
+      "shan",
+      "nie",
+      "pan",
+      "zhi",
+      "fa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 77,
+    "original": "顯示調御令離垢染，",
+    "pinyin_syllables": [
+      "xian",
+      "shi",
+      "tiao",
+      "yu",
+      "ling",
+      "li",
+      "gou",
+      "ran"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 78,
+    "original": "獲得最上寂滅涅槃，",
+    "pinyin_syllables": [
+      "huo",
+      "de",
+      "zui",
+      "shang",
+      "ji",
+      "mie",
+      "nie",
+      "pan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 79,
+    "original": "是故得名調御丈夫。」",
+    "pinyin_syllables": [
+      "shi",
+      "gu",
+      "de",
+      "ming",
+      "tiao",
+      "yu",
+      "zhang",
+      "fu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 80,
+    "original": "「云何天人師？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "tian",
+      "ren",
+      "shi",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 81,
+    "original": "「非與阿難一苾芻為師，",
+    "pinyin_syllables": [
+      "fei",
+      "yu",
+      "a",
+      "nan",
+      "yi",
+      "bi",
+      "qiu",
+      "wei",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 82,
+    "original": "所有苾芻、苾芻尼、烏波塞、烏波夷",
+    "pinyin_syllables": [
+      "suo",
+      "you",
+      "bi",
+      "qiu",
+      "bi",
+      "qiu",
+      "ni",
+      "wu",
+      "bo",
+      "se",
+      "wu",
+      "bo",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 83,
+    "original": "及天上、人間、沙門、婆羅門、",
+    "pinyin_syllables": [
+      "ji",
+      "tian",
+      "shang",
+      "ren",
+      "jian",
+      "sha",
+      "men",
+      "po",
+      "luo",
+      "men"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 84,
+    "original": "魔王、外道，釋、梵、龍、天",
+    "pinyin_syllables": [
+      "mo",
+      "wang",
+      "wai",
+      "dao",
+      "shi",
+      "fan",
+      "long",
+      "tian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 85,
+    "original": "悉皆歸命，依教奉行，",
+    "pinyin_syllables": [
+      "xi",
+      "jie",
+      "gui",
+      "ming",
+      "yi",
+      "jiao",
+      "feng",
+      "xing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 86,
+    "original": "俱作佛子，故名天人師。」",
+    "pinyin_syllables": [
+      "ju",
+      "zuo",
+      "fu",
+      "zi",
+      "gu",
+      "ming",
+      "tian",
+      "ren",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 87,
+    "original": "「云何名佛？」「智慧具足，",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "ming",
+      "fu",
+      "zhi",
+      "hui",
+      "ju",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 88,
+    "original": "三覺圓明，是故名佛。」",
+    "pinyin_syllables": [
+      "san",
+      "jue",
+      "yuan",
+      "ming",
+      "shi",
+      "gu",
+      "ming",
+      "fu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 89,
+    "original": "佛告阿難：「我昔經行之次，",
+    "pinyin_syllables": [
+      "fu",
+      "gao",
+      "a",
+      "nan",
+      "wo",
+      "xi",
+      "jing",
+      "xing",
+      "zhi",
+      "ci"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 90,
+    "original": "有婆羅門而來問我：",
+    "pinyin_syllables": [
+      "you",
+      "po",
+      "luo",
+      "men",
+      "er",
+      "lai",
+      "wen",
+      "wo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 91,
+    "original": "何故汝之父母為汝立名呼為佛邪？",
+    "pinyin_syllables": [
+      "he",
+      "gu",
+      "ru",
+      "zhi",
+      "fu",
+      "mu",
+      "wei",
+      "ru",
+      "li",
+      "ming",
+      "hu",
+      "wei",
+      "fu",
+      "xie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 92,
+    "original": "佛即答言：『世所知者，我能了知",
+    "pinyin_syllables": [
+      "fu",
+      "ji",
+      "da",
+      "yan",
+      "shi",
+      "suo",
+      "zhi",
+      "zhe",
+      "wo",
+      "neng",
+      "liao",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 93,
+    "original": "世所觀者，我亦能觀；",
+    "pinyin_syllables": [
+      "shi",
+      "suo",
+      "guan",
+      "zhe",
+      "wo",
+      "yi",
+      "neng",
+      "guan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 94,
+    "original": "所得滅者，我亦得滅。",
+    "pinyin_syllables": [
+      "suo",
+      "de",
+      "mie",
+      "zhe",
+      "wo",
+      "yi",
+      "de",
+      "mie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 95,
+    "original": "我具一切智，一切了知。",
+    "pinyin_syllables": [
+      "wo",
+      "ju",
+      "yi",
+      "qie",
+      "zhi",
+      "yi",
+      "qie",
+      "liao",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 96,
+    "original": "我從無數劫種種修行，遠塵離垢，",
+    "pinyin_syllables": [
+      "wo",
+      "cong",
+      "wu",
+      "shu",
+      "jie",
+      "zhong",
+      "zhong",
+      "xiu",
+      "xing",
+      "yuan",
+      "chen",
+      "li",
+      "gou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 97,
+    "original": "今得無上菩提，故立佛號。』」",
+    "pinyin_syllables": [
+      "jin",
+      "de",
+      "wu",
+      "shang",
+      "pu",
+      "ti",
+      "gu",
+      "li",
+      "fu",
+      "hao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 98,
+    "original": "「云何世尊？」佛言：",
+    "pinyin_syllables": [
+      "yun",
+      "he",
+      "shi",
+      "zun",
+      "fu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 99,
+    "original": "「我於因地自審觀察所有善法、",
+    "pinyin_syllables": [
+      "wo",
+      "yu",
+      "yin",
+      "di",
+      "zi",
+      "shen",
+      "guan",
+      "cha",
+      "suo",
+      "you",
+      "shan",
+      "fa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 100,
+    "original": "戒法、心法、智慧法，",
+    "pinyin_syllables": [
+      "jie",
+      "fa",
+      "xin",
+      "fa",
+      "zhi",
+      "hui",
+      "fa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 101,
+    "original": "復觀貪等不善之法，",
+    "pinyin_syllables": [
+      "fu",
+      "guan",
+      "tan",
+      "deng",
+      "bu",
+      "shan",
+      "zhi",
+      "fa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 102,
+    "original": "能招諸有生、滅等苦，",
+    "pinyin_syllables": [
+      "neng",
+      "zhao",
+      "zhu",
+      "you",
+      "sheng",
+      "mie",
+      "deng",
+      "ku"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 103,
+    "original": "以無漏智破彼煩惱得無上覺，",
+    "pinyin_syllables": [
+      "yi",
+      "wu",
+      "lou",
+      "zhi",
+      "po",
+      "bi",
+      "fan",
+      "nao",
+      "de",
+      "wu",
+      "shang",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 104,
+    "original": "是故天人凡聖、",
+    "pinyin_syllables": [
+      "shi",
+      "gu",
+      "tian",
+      "ren",
+      "fan",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 105,
+    "original": "世出世間咸皆尊重，故曰世尊。」",
+    "pinyin_syllables": [
+      "shi",
+      "chu",
+      "shi",
+      "jian",
+      "xian",
+      "jie",
+      "zun",
+      "zhong",
+      "gu",
+      "yue",
+      "shi",
+      "zun"
+    ]
+  }
+]

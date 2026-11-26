@@ -1,0 +1,1801 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "弟子規 總敘",
+    "pinyin_syllables": [
+      "di",
+      "zi",
+      "gui",
+      "zong",
+      "xu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "弟子規 聖人訓 首孝悌 次謹信",
+    "pinyin_syllables": [
+      "di",
+      "zi",
+      "gui",
+      "sheng",
+      "ren",
+      "xun",
+      "shou",
+      "xiao",
+      "ti",
+      "ci",
+      "jin",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "泛愛眾 而親仁 有餘力 則學文",
+    "pinyin_syllables": [
+      "fan",
+      "ai",
+      "zhong",
+      "er",
+      "qin",
+      "ren",
+      "you",
+      "yu",
+      "li",
+      "ze",
+      "xue",
+      "wen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "入則孝",
+    "pinyin_syllables": [
+      "ru",
+      "ze",
+      "xiao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "父母呼 應勿緩 父母命 行勿懶",
+    "pinyin_syllables": [
+      "fu",
+      "mu",
+      "hu",
+      "ying",
+      "wu",
+      "huan",
+      "fu",
+      "mu",
+      "ming",
+      "xing",
+      "wu",
+      "lan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "父母教 須敬聽 父母責 須順承",
+    "pinyin_syllables": [
+      "fu",
+      "mu",
+      "jiao",
+      "xu",
+      "jing",
+      "ting",
+      "fu",
+      "mu",
+      "ze",
+      "xu",
+      "shun",
+      "cheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "冬則溫 夏則凊 晨則省 昏則定",
+    "pinyin_syllables": [
+      "dong",
+      "ze",
+      "wen",
+      "xia",
+      "ze",
+      "qing",
+      "chen",
+      "ze",
+      "xing",
+      "hun",
+      "ze",
+      "ding"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 8,
+    "original": "出必告 反必面 居有常 業無變",
+    "pinyin_syllables": [
+      "chu",
+      "bi",
+      "gao",
+      "fan",
+      "bi",
+      "mian",
+      "ju",
+      "you",
+      "chang",
+      "ye",
+      "wu",
+      "bian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "事雖小 勿擅為 苟擅為 子道虧",
+    "pinyin_syllables": [
+      "shi",
+      "sui",
+      "xiao",
+      "wu",
+      "shan",
+      "wei",
+      "gou",
+      "shan",
+      "wei",
+      "zi",
+      "dao",
+      "kui"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "物雖小 勿私藏 苟私藏 親心傷",
+    "pinyin_syllables": [
+      "wu",
+      "sui",
+      "xiao",
+      "wu",
+      "si",
+      "cang",
+      "gou",
+      "si",
+      "cang",
+      "qin",
+      "xin",
+      "shang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 11,
+    "original": "親所好 力為具 親所惡 謹為去",
+    "pinyin_syllables": [
+      "qin",
+      "suo",
+      "hao",
+      "li",
+      "wei",
+      "ju",
+      "qin",
+      "suo",
+      "e",
+      "jin",
+      "wei",
+      "qu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 12,
+    "original": "身有傷 貽親憂 德有傷 貽親羞",
+    "pinyin_syllables": [
+      "shen",
+      "you",
+      "shang",
+      "yi",
+      "qin",
+      "you",
+      "de",
+      "you",
+      "shang",
+      "yi",
+      "qin",
+      "xiu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 13,
+    "original": "親愛我 孝何難 親憎我 孝方賢",
+    "pinyin_syllables": [
+      "qin",
+      "ai",
+      "wo",
+      "xiao",
+      "he",
+      "nan",
+      "qin",
+      "zeng",
+      "wo",
+      "xiao",
+      "fang",
+      "xian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 14,
+    "original": "親有過 諫使更 怡吾色 柔吾聲",
+    "pinyin_syllables": [
+      "qin",
+      "you",
+      "guo",
+      "jian",
+      "shi",
+      "geng",
+      "yi",
+      "wu",
+      "se",
+      "rou",
+      "wu",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 15,
+    "original": "諫不入 悅復諫 號泣隨 撻無怨",
+    "pinyin_syllables": [
+      "jian",
+      "bu",
+      "ru",
+      "yue",
+      "fu",
+      "jian",
+      "hao",
+      "qi",
+      "sui",
+      "ta",
+      "wu",
+      "yuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 16,
+    "original": "親有疾 藥先嘗 晝夜侍 不離床",
+    "pinyin_syllables": [
+      "qin",
+      "you",
+      "ji",
+      "yao",
+      "xian",
+      "chang",
+      "zhou",
+      "ye",
+      "shi",
+      "bu",
+      "li",
+      "chuang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 17,
+    "original": "喪三年 常悲咽 居處變 酒肉絕",
+    "pinyin_syllables": [
+      "sang",
+      "san",
+      "nian",
+      "chang",
+      "bei",
+      "ye",
+      "ju",
+      "chu",
+      "bian",
+      "jiu",
+      "rou",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 18,
+    "original": "喪盡禮 祭盡誠 事死者 如事生",
+    "pinyin_syllables": [
+      "sang",
+      "jin",
+      "li",
+      "ji",
+      "jin",
+      "cheng",
+      "shi",
+      "si",
+      "zhe",
+      "ru",
+      "shi",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 19,
+    "original": "出則悌",
+    "pinyin_syllables": [
+      "chu",
+      "ze",
+      "ti"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 20,
+    "original": "兄道友 弟道恭 兄弟睦 孝在中",
+    "pinyin_syllables": [
+      "xiong",
+      "dao",
+      "you",
+      "di",
+      "dao",
+      "gong",
+      "xiong",
+      "di",
+      "mu",
+      "xiao",
+      "zai",
+      "zhong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 21,
+    "original": "財物輕 怨何生 言語忍 忿自泯",
+    "pinyin_syllables": [
+      "cai",
+      "wu",
+      "qing",
+      "yuan",
+      "he",
+      "sheng",
+      "yan",
+      "yu",
+      "ren",
+      "fen",
+      "zi",
+      "min"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 22,
+    "original": "或飲食 或坐走 長者先 幼者後",
+    "pinyin_syllables": [
+      "huo",
+      "yin",
+      "shi",
+      "huo",
+      "zuo",
+      "zou",
+      "zhang",
+      "zhe",
+      "xian",
+      "you",
+      "zhe",
+      "hou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 23,
+    "original": "長呼人 即代叫 人不在 己即到",
+    "pinyin_syllables": [
+      "zhang",
+      "hu",
+      "ren",
+      "ji",
+      "dai",
+      "jiao",
+      "ren",
+      "bu",
+      "zai",
+      "ji",
+      "ji",
+      "dao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 24,
+    "original": "稱尊長 勿呼名 對尊長 勿見能",
+    "pinyin_syllables": [
+      "cheng",
+      "zun",
+      "zhang",
+      "wu",
+      "hu",
+      "ming",
+      "dui",
+      "zun",
+      "zhang",
+      "wu",
+      "jian",
+      "neng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 25,
+    "original": "路遇長 疾趨揖 長無言 退恭立",
+    "pinyin_syllables": [
+      "lu",
+      "yu",
+      "zhang",
+      "ji",
+      "qu",
+      "yi",
+      "zhang",
+      "wu",
+      "yan",
+      "tui",
+      "gong",
+      "li"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 26,
+    "original": "騎下馬 乘下車 過猶待 百步餘",
+    "pinyin_syllables": [
+      "qi",
+      "xia",
+      "ma",
+      "cheng",
+      "xia",
+      "che",
+      "guo",
+      "you",
+      "dai",
+      "bai",
+      "bu",
+      "yu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 27,
+    "original": "長者立 幼勿坐 長者坐 命乃坐",
+    "pinyin_syllables": [
+      "zhang",
+      "zhe",
+      "li",
+      "you",
+      "wu",
+      "zuo",
+      "zhang",
+      "zhe",
+      "zuo",
+      "ming",
+      "nai",
+      "zuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 28,
+    "original": "尊長前 聲要低 低不聞 卻非宜",
+    "pinyin_syllables": [
+      "zun",
+      "zhang",
+      "qian",
+      "sheng",
+      "yao",
+      "di",
+      "di",
+      "bu",
+      "wen",
+      "que",
+      "fei",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 29,
+    "original": "進必趨 退必遲 問起對 視勿移",
+    "pinyin_syllables": [
+      "jin",
+      "bi",
+      "qu",
+      "tui",
+      "bi",
+      "chi",
+      "wen",
+      "qi",
+      "dui",
+      "shi",
+      "wu",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 30,
+    "original": "事諸父 如事父 事諸兄 如事兄",
+    "pinyin_syllables": [
+      "shi",
+      "zhu",
+      "fu",
+      "ru",
+      "shi",
+      "fu",
+      "shi",
+      "zhu",
+      "xiong",
+      "ru",
+      "shi",
+      "xiong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 31,
+    "original": "謹",
+    "pinyin_syllables": [
+      "jin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 32,
+    "original": "朝起早 夜眠遲 老易至 惜此時",
+    "pinyin_syllables": [
+      "zhao",
+      "qi",
+      "zao",
+      "ye",
+      "mian",
+      "chi",
+      "lao",
+      "yi",
+      "zhi",
+      "xi",
+      "ci",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 33,
+    "original": "晨必盥 兼漱口 便溺回 輒淨手",
+    "pinyin_syllables": [
+      "chen",
+      "bi",
+      "guan",
+      "jian",
+      "shu",
+      "kou",
+      "bian",
+      "niao",
+      "hui",
+      "zhe",
+      "jing",
+      "shou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 34,
+    "original": "冠必正 紐必結 襪與履 俱緊切",
+    "pinyin_syllables": [
+      "guan",
+      "bi",
+      "zheng",
+      "niu",
+      "bi",
+      "jie",
+      "wa",
+      "yu",
+      "lv",
+      "ju",
+      "jin",
+      "qie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 35,
+    "original": "置冠服 有定位 勿亂頓 致污穢",
+    "pinyin_syllables": [
+      "zhi",
+      "guan",
+      "fu",
+      "you",
+      "ding",
+      "wei",
+      "wu",
+      "luan",
+      "dun",
+      "zhi",
+      "wu",
+      "hui"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 36,
+    "original": "衣貴潔 不貴華 上循分 下稱家",
+    "pinyin_syllables": [
+      "yi",
+      "gui",
+      "jie",
+      "bu",
+      "gui",
+      "hua",
+      "shang",
+      "xun",
+      "fen",
+      "xia",
+      "cheng",
+      "jia"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 37,
+    "original": "對飲食 勿揀擇 食適可 勿過則",
+    "pinyin_syllables": [
+      "dui",
+      "yin",
+      "shi",
+      "wu",
+      "jian",
+      "ze",
+      "shi",
+      "shi",
+      "ke",
+      "wu",
+      "guo",
+      "ze"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 38,
+    "original": "年方少 勿飲酒 飲酒醉 最為醜",
+    "pinyin_syllables": [
+      "nian",
+      "fang",
+      "shao",
+      "wu",
+      "yin",
+      "jiu",
+      "yin",
+      "jiu",
+      "zui",
+      "zui",
+      "wei",
+      "chou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 39,
+    "original": "步從容 立端正 揖深圓 拜恭敬",
+    "pinyin_syllables": [
+      "bu",
+      "cong",
+      "rong",
+      "li",
+      "duan",
+      "zheng",
+      "yi",
+      "shen",
+      "yuan",
+      "bai",
+      "gong",
+      "jing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 40,
+    "original": "勿踐閾 勿跛倚 勿箕踞 勿搖髀",
+    "pinyin_syllables": [
+      "wu",
+      "jian",
+      "yu",
+      "wu",
+      "bo",
+      "yi",
+      "wu",
+      "ji",
+      "ju",
+      "wu",
+      "yao",
+      "bi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 41,
+    "original": "緩揭簾 勿有聲 寬轉彎 勿觸棱",
+    "pinyin_syllables": [
+      "huan",
+      "jie",
+      "lian",
+      "wu",
+      "you",
+      "sheng",
+      "kuan",
+      "zhuan",
+      "wan",
+      "wu",
+      "chu",
+      "leng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 42,
+    "original": "執虛器 如執盈 入虛室 如有人",
+    "pinyin_syllables": [
+      "zhi",
+      "xu",
+      "qi",
+      "ru",
+      "zhi",
+      "ying",
+      "ru",
+      "xu",
+      "shi",
+      "ru",
+      "you",
+      "ren"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 43,
+    "original": "事勿忙 忙多錯 勿畏難 勿輕略",
+    "pinyin_syllables": [
+      "shi",
+      "wu",
+      "mang",
+      "mang",
+      "duo",
+      "cuo",
+      "wu",
+      "wei",
+      "nan",
+      "wu",
+      "qing",
+      "lve"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 44,
+    "original": "鬥鬧場 絕勿近 邪僻事 絕勿問",
+    "pinyin_syllables": [
+      "dou",
+      "nao",
+      "chang",
+      "jue",
+      "wu",
+      "jin",
+      "xie",
+      "pi",
+      "shi",
+      "jue",
+      "wu",
+      "wen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 45,
+    "original": "將入門 問孰存 將上堂 聲必揚",
+    "pinyin_syllables": [
+      "jiang",
+      "ru",
+      "men",
+      "wen",
+      "shu",
+      "cun",
+      "jiang",
+      "shang",
+      "tang",
+      "sheng",
+      "bi",
+      "yang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 46,
+    "original": "人問誰 對以名 吾與我 不分明",
+    "pinyin_syllables": [
+      "ren",
+      "wen",
+      "shui",
+      "dui",
+      "yi",
+      "ming",
+      "wu",
+      "yu",
+      "wo",
+      "bu",
+      "fen",
+      "ming"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 47,
+    "original": "用人物 須明求 倘不問 即為偷",
+    "pinyin_syllables": [
+      "yong",
+      "ren",
+      "wu",
+      "xu",
+      "ming",
+      "qiu",
+      "tang",
+      "bu",
+      "wen",
+      "ji",
+      "wei",
+      "tou"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 48,
+    "original": "借人物 及時還 後有急 借不難",
+    "pinyin_syllables": [
+      "jie",
+      "ren",
+      "wu",
+      "ji",
+      "shi",
+      "huan",
+      "hou",
+      "you",
+      "ji",
+      "jie",
+      "bu",
+      "nan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 49,
+    "original": "信",
+    "pinyin_syllables": [
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 50,
+    "original": "凡出言 信為先 詐與妄 奚可焉",
+    "pinyin_syllables": [
+      "fan",
+      "chu",
+      "yan",
+      "xin",
+      "wei",
+      "xian",
+      "zha",
+      "yu",
+      "wang",
+      "xi",
+      "ke",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 51,
+    "original": "話說多 不如少 惟其是 勿佞巧",
+    "pinyin_syllables": [
+      "hua",
+      "shuo",
+      "duo",
+      "bu",
+      "ru",
+      "shao",
+      "wei",
+      "qi",
+      "shi",
+      "wu",
+      "ning",
+      "qiao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 52,
+    "original": "奸巧語 穢污詞 市井氣 切戒之",
+    "pinyin_syllables": [
+      "jian",
+      "qiao",
+      "yu",
+      "hui",
+      "wu",
+      "ci",
+      "shi",
+      "jing",
+      "qi",
+      "qie",
+      "jie",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 53,
+    "original": "見未真 勿輕言 知未的 勿輕傳",
+    "pinyin_syllables": [
+      "jian",
+      "wei",
+      "zhen",
+      "wu",
+      "qing",
+      "yan",
+      "zhi",
+      "wei",
+      "di",
+      "wu",
+      "qing",
+      "chuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 54,
+    "original": "事非宜 勿輕諾 苟輕諾 進退錯",
+    "pinyin_syllables": [
+      "shi",
+      "fei",
+      "yi",
+      "wu",
+      "qing",
+      "nuo",
+      "gou",
+      "qing",
+      "nuo",
+      "jin",
+      "tui",
+      "cuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 55,
+    "original": "凡道字 重且舒 勿急疾 勿模糊",
+    "pinyin_syllables": [
+      "fan",
+      "dao",
+      "zi",
+      "zhong",
+      "qie",
+      "shu",
+      "wu",
+      "ji",
+      "ji",
+      "wu",
+      "mo",
+      "hu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 56,
+    "original": "彼說長 此說短 不關己 莫閒管",
+    "pinyin_syllables": [
+      "bi",
+      "shuo",
+      "zhang",
+      "ci",
+      "shuo",
+      "duan",
+      "bu",
+      "guan",
+      "ji",
+      "mo",
+      "xian",
+      "guan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 57,
+    "original": "見人善 即思齊 縱去遠 以漸躋",
+    "pinyin_syllables": [
+      "jian",
+      "ren",
+      "shan",
+      "ji",
+      "si",
+      "qi",
+      "zong",
+      "qu",
+      "yuan",
+      "yi",
+      "jian",
+      "ji"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 58,
+    "original": "見人惡 即內省 有則改 無加警",
+    "pinyin_syllables": [
+      "jian",
+      "ren",
+      "e",
+      "ji",
+      "nei",
+      "sheng",
+      "you",
+      "ze",
+      "gai",
+      "wu",
+      "jia",
+      "jing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 59,
+    "original": "唯德學 唯才藝 不如人 當自礪",
+    "pinyin_syllables": [
+      "wei",
+      "de",
+      "xue",
+      "wei",
+      "cai",
+      "yi",
+      "bu",
+      "ru",
+      "ren",
+      "dang",
+      "zi",
+      "li"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 60,
+    "original": "若衣服 若飲食 不如人 勿生慼",
+    "pinyin_syllables": [
+      "ruo",
+      "yi",
+      "fu",
+      "ruo",
+      "yin",
+      "shi",
+      "bu",
+      "ru",
+      "ren",
+      "wu",
+      "sheng",
+      "qi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 61,
+    "original": "聞過怒 聞譽樂 損友來 益友卻",
+    "pinyin_syllables": [
+      "wen",
+      "guo",
+      "nu",
+      "wen",
+      "yu",
+      "le",
+      "sun",
+      "you",
+      "lai",
+      "yi",
+      "you",
+      "que"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 62,
+    "original": "聞譽恐 聞過欣 直諒士 漸相親",
+    "pinyin_syllables": [
+      "wen",
+      "yu",
+      "kong",
+      "wen",
+      "guo",
+      "xin",
+      "zhi",
+      "liang",
+      "shi",
+      "jian",
+      "xiang",
+      "qin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 63,
+    "original": "無心非 名為錯 有心非 名為惡",
+    "pinyin_syllables": [
+      "wu",
+      "xin",
+      "fei",
+      "ming",
+      "wei",
+      "cuo",
+      "you",
+      "xin",
+      "fei",
+      "ming",
+      "wei",
+      "e"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 64,
+    "original": "過能改 歸於無 倘揜飾 增一辜",
+    "pinyin_syllables": [
+      "guo",
+      "neng",
+      "gai",
+      "gui",
+      "yu",
+      "wu",
+      "tang",
+      "yan",
+      "shi",
+      "zeng",
+      "yi",
+      "gu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 65,
+    "original": "汎愛眾",
+    "pinyin_syllables": [
+      "fan",
+      "ai",
+      "zhong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 66,
+    "original": "凡是人 皆須愛 天同覆 地同載",
+    "pinyin_syllables": [
+      "fan",
+      "shi",
+      "ren",
+      "jie",
+      "xu",
+      "ai",
+      "tian",
+      "tong",
+      "fu",
+      "di",
+      "tong",
+      "zai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 67,
+    "original": "行高者 名自高 人所重 非貌高",
+    "pinyin_syllables": [
+      "xing",
+      "gao",
+      "zhe",
+      "ming",
+      "zi",
+      "gao",
+      "ren",
+      "suo",
+      "zhong",
+      "fei",
+      "mao",
+      "gao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 68,
+    "original": "才大者 望自大 人所服 非言大",
+    "pinyin_syllables": [
+      "cai",
+      "da",
+      "zhe",
+      "wang",
+      "zi",
+      "da",
+      "ren",
+      "suo",
+      "fu",
+      "fei",
+      "yan",
+      "da"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 69,
+    "original": "己有能 勿自私 人所能 勿輕訾",
+    "pinyin_syllables": [
+      "ji",
+      "you",
+      "neng",
+      "wu",
+      "zi",
+      "si",
+      "ren",
+      "suo",
+      "neng",
+      "wu",
+      "qing",
+      "zi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 70,
+    "original": "勿諂富 勿驕貧 勿厭故 勿喜新",
+    "pinyin_syllables": [
+      "wu",
+      "chan",
+      "fu",
+      "wu",
+      "jiao",
+      "pin",
+      "wu",
+      "yan",
+      "gu",
+      "wu",
+      "xi",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 71,
+    "original": "人不閒 勿事攪 人不安 勿話擾",
+    "pinyin_syllables": [
+      "ren",
+      "bu",
+      "xian",
+      "wu",
+      "shi",
+      "jiao",
+      "ren",
+      "bu",
+      "an",
+      "wu",
+      "hua",
+      "rao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 72,
+    "original": "人有短 切莫揭 人有私 切莫說",
+    "pinyin_syllables": [
+      "ren",
+      "you",
+      "duan",
+      "qie",
+      "mo",
+      "jie",
+      "ren",
+      "you",
+      "si",
+      "qie",
+      "mo",
+      "shuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 73,
+    "original": "道人善 即是善 人知之 愈思勉",
+    "pinyin_syllables": [
+      "dao",
+      "ren",
+      "shan",
+      "ji",
+      "shi",
+      "shan",
+      "ren",
+      "zhi",
+      "zhi",
+      "yu",
+      "si",
+      "mian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 74,
+    "original": "揚人惡 即是惡 疾之甚 禍且作",
+    "pinyin_syllables": [
+      "yang",
+      "ren",
+      "e",
+      "ji",
+      "shi",
+      "e",
+      "ji",
+      "zhi",
+      "shen",
+      "huo",
+      "qie",
+      "zuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 75,
+    "original": "善相勸 德皆建 過不規 道兩虧",
+    "pinyin_syllables": [
+      "shan",
+      "xiang",
+      "quan",
+      "de",
+      "jie",
+      "jian",
+      "guo",
+      "bu",
+      "gui",
+      "dao",
+      "liang",
+      "kui"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 76,
+    "original": "凡取與 貴分曉 與宜多 取宜少",
+    "pinyin_syllables": [
+      "fan",
+      "qu",
+      "yu",
+      "gui",
+      "fen",
+      "xiao",
+      "yu",
+      "yi",
+      "duo",
+      "qu",
+      "yi",
+      "shao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 77,
+    "original": "將加人 先問己 己不欲 即速已",
+    "pinyin_syllables": [
+      "jiang",
+      "jia",
+      "ren",
+      "xian",
+      "wen",
+      "ji",
+      "ji",
+      "bu",
+      "yu",
+      "ji",
+      "su",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 78,
+    "original": "恩欲報 怨欲忘 報怨短 報恩長",
+    "pinyin_syllables": [
+      "en",
+      "yu",
+      "bao",
+      "yuan",
+      "yu",
+      "wang",
+      "bao",
+      "yuan",
+      "duan",
+      "bao",
+      "en",
+      "zhang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 79,
+    "original": "待婢僕 身貴端 雖貴端 慈而寬",
+    "pinyin_syllables": [
+      "dai",
+      "bi",
+      "pu",
+      "shen",
+      "gui",
+      "duan",
+      "sui",
+      "gui",
+      "duan",
+      "ci",
+      "er",
+      "kuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 80,
+    "original": "勢服人 心不然 理服人 方無言",
+    "pinyin_syllables": [
+      "shi",
+      "fu",
+      "ren",
+      "xin",
+      "bu",
+      "ran",
+      "li",
+      "fu",
+      "ren",
+      "fang",
+      "wu",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 81,
+    "original": "親仁",
+    "pinyin_syllables": [
+      "qin",
+      "ren"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 82,
+    "original": "同是人 類不齊 流俗眾 仁者希",
+    "pinyin_syllables": [
+      "tong",
+      "shi",
+      "ren",
+      "lei",
+      "bu",
+      "qi",
+      "liu",
+      "su",
+      "zhong",
+      "ren",
+      "zhe",
+      "xi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 83,
+    "original": "果仁者 人多畏 言不諱 色不媚",
+    "pinyin_syllables": [
+      "guo",
+      "ren",
+      "zhe",
+      "ren",
+      "duo",
+      "wei",
+      "yan",
+      "bu",
+      "hui",
+      "se",
+      "bu",
+      "mei"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 84,
+    "original": "能親仁 無限好 德日進 過日少",
+    "pinyin_syllables": [
+      "neng",
+      "qin",
+      "ren",
+      "wu",
+      "xian",
+      "hao",
+      "de",
+      "ri",
+      "jin",
+      "guo",
+      "ri",
+      "shao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 85,
+    "original": "不親仁 無限害 小人進 百事壞",
+    "pinyin_syllables": [
+      "bu",
+      "qin",
+      "ren",
+      "wu",
+      "xian",
+      "hai",
+      "xiao",
+      "ren",
+      "jin",
+      "bai",
+      "shi",
+      "huai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 86,
+    "original": "餘力學文",
+    "pinyin_syllables": [
+      "yu",
+      "li",
+      "xue",
+      "wen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 87,
+    "original": "不力行 但學文 長浮華 成何人",
+    "pinyin_syllables": [
+      "bu",
+      "li",
+      "xing",
+      "dan",
+      "xue",
+      "wen",
+      "zhang",
+      "fu",
+      "hua",
+      "cheng",
+      "he",
+      "ren"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 88,
+    "original": "但力行 不學文 任己見 昧理真",
+    "pinyin_syllables": [
+      "dan",
+      "li",
+      "xing",
+      "bu",
+      "xue",
+      "wen",
+      "ren",
+      "ji",
+      "jian",
+      "mei",
+      "li",
+      "zhen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 89,
+    "original": "讀書法 有三到 心眼口 信皆要",
+    "pinyin_syllables": [
+      "du",
+      "shu",
+      "fa",
+      "you",
+      "san",
+      "dao",
+      "xin",
+      "yan",
+      "kou",
+      "xin",
+      "jie",
+      "yao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 90,
+    "original": "方讀此 勿慕彼 此未終 彼勿起",
+    "pinyin_syllables": [
+      "fang",
+      "du",
+      "ci",
+      "wu",
+      "mu",
+      "bi",
+      "ci",
+      "wei",
+      "zhong",
+      "bi",
+      "wu",
+      "qi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 91,
+    "original": "寬為限 緊用功 工夫到 滯塞通",
+    "pinyin_syllables": [
+      "kuan",
+      "wei",
+      "xian",
+      "jin",
+      "yong",
+      "gong",
+      "gong",
+      "fu",
+      "dao",
+      "zhi",
+      "se",
+      "tong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 92,
+    "original": "心有疑 隨札記 就人問 求確義",
+    "pinyin_syllables": [
+      "xin",
+      "you",
+      "yi",
+      "sui",
+      "zha",
+      "ji",
+      "jiu",
+      "ren",
+      "wen",
+      "qiu",
+      "que",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 93,
+    "original": "房室清 牆壁淨 几案潔 筆硯正",
+    "pinyin_syllables": [
+      "fang",
+      "shi",
+      "qing",
+      "qiang",
+      "bi",
+      "jing",
+      "ji",
+      "an",
+      "jie",
+      "bi",
+      "yan",
+      "zheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 94,
+    "original": "墨磨偏 心不端 字不敬 心先病",
+    "pinyin_syllables": [
+      "mo",
+      "mo",
+      "pian",
+      "xin",
+      "bu",
+      "duan",
+      "zi",
+      "bu",
+      "jing",
+      "xin",
+      "xian",
+      "bing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 95,
+    "original": "列典籍 有定處 讀看畢 還原處",
+    "pinyin_syllables": [
+      "lie",
+      "dian",
+      "ji",
+      "you",
+      "ding",
+      "chu",
+      "du",
+      "kan",
+      "bi",
+      "huan",
+      "yuan",
+      "chu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 96,
+    "original": "雖有急 卷束齊 有缺壞 就補之",
+    "pinyin_syllables": [
+      "sui",
+      "you",
+      "ji",
+      "juan",
+      "shu",
+      "qi",
+      "you",
+      "que",
+      "huai",
+      "jiu",
+      "bu",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 97,
+    "original": "非聖書 屏勿視 蔽聰明 壞心志",
+    "pinyin_syllables": [
+      "fei",
+      "sheng",
+      "shu",
+      "bing",
+      "wu",
+      "shi",
+      "bi",
+      "cong",
+      "ming",
+      "huai",
+      "xin",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 98,
+    "original": "勿自暴 勿自棄 聖與賢 可馴致",
+    "pinyin_syllables": [
+      "wu",
+      "zi",
+      "bao",
+      "wu",
+      "zi",
+      "qi",
+      "sheng",
+      "yu",
+      "xian",
+      "ke",
+      "xun",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 99,
+    "original": "弟子規終",
+    "pinyin_syllables": [
+      "di",
+      "zi",
+      "gui",
+      "zhong"
+    ]
+  }
+]

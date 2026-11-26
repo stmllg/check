@@ -1,0 +1,696 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "佛說八大人覺經",
+    "pinyin_syllables": [
+      "fu",
+      "shuo",
+      "ba",
+      "da",
+      "ren",
+      "jue",
+      "jing"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "為佛弟子 常於晝夜",
+    "pinyin_syllables": [
+      "wei",
+      "fu",
+      "di",
+      "zi",
+      "chang",
+      "yu",
+      "zhou",
+      "ye"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "至心誦念 八大人覺",
+    "pinyin_syllables": [
+      "zhi",
+      "xin",
+      "song",
+      "nian",
+      "ba",
+      "da",
+      "ren",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "第一覺悟 世間無常",
+    "pinyin_syllables": [
+      "di",
+      "yi",
+      "jue",
+      "wu",
+      "shi",
+      "jian",
+      "wu",
+      "chang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "國土危脆 四大苦空",
+    "pinyin_syllables": [
+      "guo",
+      "tu",
+      "wei",
+      "cui",
+      "si",
+      "da",
+      "ku",
+      "kong"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "五陰無我 生滅變異",
+    "pinyin_syllables": [
+      "wu",
+      "yin",
+      "wu",
+      "wo",
+      "sheng",
+      "mie",
+      "bian",
+      "yi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "虛偽無主 心是惡源",
+    "pinyin_syllables": [
+      "xu",
+      "wei",
+      "wu",
+      "zhu",
+      "xin",
+      "shi",
+      "e",
+      "yuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 8,
+    "original": "形為罪藪 如是觀察 漸離生死",
+    "pinyin_syllables": [
+      "xing",
+      "wei",
+      "zui",
+      "sou",
+      "ru",
+      "shi",
+      "guan",
+      "cha",
+      "jian",
+      "li",
+      "sheng",
+      "si"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "第二覺知 多欲為苦",
+    "pinyin_syllables": [
+      "di",
+      "er",
+      "jue",
+      "zhi",
+      "duo",
+      "yu",
+      "wei",
+      "ku"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "生死疲勞 從貪欲起",
+    "pinyin_syllables": [
+      "sheng",
+      "si",
+      "pi",
+      "lao",
+      "cong",
+      "tan",
+      "yu",
+      "qi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 11,
+    "original": "少欲無為 身心自在",
+    "pinyin_syllables": [
+      "shao",
+      "yu",
+      "wu",
+      "wei",
+      "shen",
+      "xin",
+      "zi",
+      "zai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 12,
+    "original": "第三覺知 心無厭足",
+    "pinyin_syllables": [
+      "di",
+      "san",
+      "jue",
+      "zhi",
+      "xin",
+      "wu",
+      "yan",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 13,
+    "original": "惟得多求 增長罪惡",
+    "pinyin_syllables": [
+      "wei",
+      "de",
+      "duo",
+      "qiu",
+      "zeng",
+      "zhang",
+      "zui",
+      "e"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 14,
+    "original": "菩薩不爾 常念知足",
+    "pinyin_syllables": [
+      "pu",
+      "sa",
+      "bu",
+      "er",
+      "chang",
+      "nian",
+      "zhi",
+      "zu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 15,
+    "original": "安貧守道 惟慧是業",
+    "pinyin_syllables": [
+      "an",
+      "pin",
+      "shou",
+      "dao",
+      "wei",
+      "hui",
+      "shi",
+      "ye"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 16,
+    "original": "第四覺知 懈怠墜落",
+    "pinyin_syllables": [
+      "di",
+      "si",
+      "jue",
+      "zhi",
+      "xie",
+      "dai",
+      "zhui",
+      "luo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 17,
+    "original": "常行精進 破煩惱惡",
+    "pinyin_syllables": [
+      "chang",
+      "xing",
+      "jing",
+      "jin",
+      "po",
+      "fan",
+      "nao",
+      "e"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 18,
+    "original": "摧伏四魔 出陰界獄",
+    "pinyin_syllables": [
+      "cui",
+      "fu",
+      "si",
+      "mo",
+      "chu",
+      "yin",
+      "jie",
+      "yu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 19,
+    "original": "第五覺悟 愚癡生死",
+    "pinyin_syllables": [
+      "di",
+      "wu",
+      "jue",
+      "wu",
+      "yu",
+      "chi",
+      "sheng",
+      "si"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 20,
+    "original": "菩薩常念 廣學多聞",
+    "pinyin_syllables": [
+      "pu",
+      "sa",
+      "chang",
+      "nian",
+      "guang",
+      "xue",
+      "duo",
+      "wen"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 21,
+    "original": "增長智慧 成就辯才",
+    "pinyin_syllables": [
+      "zeng",
+      "zhang",
+      "zhi",
+      "hui",
+      "cheng",
+      "jiu",
+      "bian",
+      "cai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 22,
+    "original": "教化一切 悉以大樂",
+    "pinyin_syllables": [
+      "jiao",
+      "hua",
+      "yi",
+      "qie",
+      "xi",
+      "yi",
+      "da",
+      "le"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 23,
+    "original": "第六覺知 貧苦多怨",
+    "pinyin_syllables": [
+      "di",
+      "liu",
+      "jue",
+      "zhi",
+      "pin",
+      "ku",
+      "duo",
+      "yuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 24,
+    "original": "橫結惡緣 菩薩布施",
+    "pinyin_syllables": [
+      "heng",
+      "jie",
+      "e",
+      "yuan",
+      "pu",
+      "sa",
+      "bu",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 25,
+    "original": "等念怨親 不念舊惡 不憎惡人",
+    "pinyin_syllables": [
+      "deng",
+      "nian",
+      "yuan",
+      "qin",
+      "bu",
+      "nian",
+      "jiu",
+      "e",
+      "bu",
+      "zeng",
+      "e",
+      "ren"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 26,
+    "original": "第七覺悟 五欲過患",
+    "pinyin_syllables": [
+      "di",
+      "qi",
+      "jue",
+      "wu",
+      "wu",
+      "yu",
+      "guo",
+      "huan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 27,
+    "original": "雖為俗人 不染世樂",
+    "pinyin_syllables": [
+      "sui",
+      "wei",
+      "su",
+      "ren",
+      "bu",
+      "ran",
+      "shi",
+      "le"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 28,
+    "original": "常念三衣 瓦鉢法器",
+    "pinyin_syllables": [
+      "chang",
+      "nian",
+      "san",
+      "yi",
+      "wa",
+      "bo",
+      "fa",
+      "qi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 29,
+    "original": "志願出家 守道清白",
+    "pinyin_syllables": [
+      "zhi",
+      "yuan",
+      "chu",
+      "jia",
+      "shou",
+      "dao",
+      "qing",
+      "bai"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 30,
+    "original": "梵行高遠 慈悲一切",
+    "pinyin_syllables": [
+      "fan",
+      "heng",
+      "gao",
+      "yuan",
+      "ci",
+      "bei",
+      "yi",
+      "qie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 31,
+    "original": "第八覺知 生死熾然",
+    "pinyin_syllables": [
+      "di",
+      "ba",
+      "jue",
+      "zhi",
+      "sheng",
+      "si",
+      "chi",
+      "ran"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 32,
+    "original": "苦惱無量 發大乘心",
+    "pinyin_syllables": [
+      "ku",
+      "nao",
+      "wu",
+      "liang",
+      "fa",
+      "da",
+      "cheng",
+      "xin"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 33,
+    "original": "普濟一切 願代眾生",
+    "pinyin_syllables": [
+      "pu",
+      "ji",
+      "yi",
+      "qie",
+      "yuan",
+      "dai",
+      "zhong",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 34,
+    "original": "受無量苦 令諸眾生 畢竟大樂",
+    "pinyin_syllables": [
+      "shou",
+      "wu",
+      "liang",
+      "ku",
+      "ling",
+      "zhu",
+      "zhong",
+      "sheng",
+      "bi",
+      "jing",
+      "da",
+      "le"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 35,
+    "original": "如此八事 乃是諸佛菩薩大人",
+    "pinyin_syllables": [
+      "ru",
+      "ci",
+      "ba",
+      "shi",
+      "nai",
+      "shi",
+      "zhu",
+      "fu",
+      "pu",
+      "sa",
+      "da",
+      "ren"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 36,
+    "original": "之所覺悟 精進行道",
+    "pinyin_syllables": [
+      "zhi",
+      "suo",
+      "jue",
+      "wu",
+      "jing",
+      "jin",
+      "xing",
+      "dao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 37,
+    "original": "慈悲修慧 乘法身船",
+    "pinyin_syllables": [
+      "ci",
+      "bei",
+      "xiu",
+      "hui",
+      "cheng",
+      "fa",
+      "shen",
+      "chuan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 38,
+    "original": "至涅槃岸 復還生死 度脫眾生",
+    "pinyin_syllables": [
+      "zhi",
+      "nie",
+      "pan",
+      "an",
+      "fu",
+      "huan",
+      "sheng",
+      "si",
+      "du",
+      "tuo",
+      "zhong",
+      "sheng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 39,
+    "original": "以前八事 開導一切",
+    "pinyin_syllables": [
+      "yi",
+      "qian",
+      "ba",
+      "shi",
+      "kai",
+      "dao",
+      "yi",
+      "qie"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 40,
+    "original": "令諸眾生 覺生死苦",
+    "pinyin_syllables": [
+      "ling",
+      "zhu",
+      "zhong",
+      "sheng",
+      "jue",
+      "sheng",
+      "si",
+      "ku"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 41,
+    "original": "捨離五欲 修心聖道",
+    "pinyin_syllables": [
+      "she",
+      "li",
+      "wu",
+      "yu",
+      "xiu",
+      "xin",
+      "sheng",
+      "dao"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 42,
+    "original": "若佛弟子 誦此八事",
+    "pinyin_syllables": [
+      "ruo",
+      "fu",
+      "di",
+      "zi",
+      "song",
+      "ci",
+      "ba",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 43,
+    "original": "於念念中 滅無量罪",
+    "pinyin_syllables": [
+      "yu",
+      "nian",
+      "nian",
+      "zhong",
+      "mie",
+      "wu",
+      "liang",
+      "zui"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 44,
+    "original": "進趣菩提 速登正覺",
+    "pinyin_syllables": [
+      "jin",
+      "qu",
+      "pu",
+      "ti",
+      "su",
+      "deng",
+      "zheng",
+      "jue"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 45,
+    "original": "永斷生死 常住快樂",
+    "pinyin_syllables": [
+      "yong",
+      "duan",
+      "sheng",
+      "si",
+      "chang",
+      "zhu",
+      "kuai",
+      "le"
+    ]
+  }
+]

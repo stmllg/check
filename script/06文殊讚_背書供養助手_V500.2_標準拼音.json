@@ -1,0 +1,482 @@
+[
+  {
+    "type": "scripture",
+    "sentence_id": 1,
+    "original": "文殊讚",
+    "pinyin_syllables": [
+      "wen",
+      "shu",
+      "zan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 2,
+    "original": "南無皈依金剛上師",
+    "pinyin_syllables": [
+      "na",
+      "mo",
+      "gui",
+      "yi",
+      "jin",
+      "gang",
+      "shang",
+      "shi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 3,
+    "original": "文殊師利菩薩",
+    "pinyin_syllables": [
+      "wen",
+      "shu",
+      "shi",
+      "li",
+      "pu",
+      "sa"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 4,
+    "original": "誰之智慧離二障雲",
+    "pinyin_syllables": [
+      "shui",
+      "zhi",
+      "zhi",
+      "hui",
+      "li",
+      "er",
+      "zhang",
+      "yun"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 5,
+    "original": "猶如淨日極明朗",
+    "pinyin_syllables": [
+      "you",
+      "ru",
+      "jing",
+      "ri",
+      "ji",
+      "ming",
+      "lang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 6,
+    "original": "所有諸義如實觀故",
+    "pinyin_syllables": [
+      "suo",
+      "you",
+      "zhu",
+      "yi",
+      "ru",
+      "shi",
+      "guan",
+      "gu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 7,
+    "original": "胸中執持般若函",
+    "pinyin_syllables": [
+      "xiong",
+      "zhong",
+      "zhi",
+      "chi",
+      "bo",
+      "re",
+      "han"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 8,
+    "original": "諸有於此生死牢獄",
+    "pinyin_syllables": [
+      "zhu",
+      "you",
+      "yu",
+      "ci",
+      "sheng",
+      "si",
+      "lao",
+      "yu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 9,
+    "original": "無明闇覆苦所逼",
+    "pinyin_syllables": [
+      "wu",
+      "ming",
+      "an",
+      "fu",
+      "ku",
+      "suo",
+      "bi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 10,
+    "original": "眾生海中悲同一子",
+    "pinyin_syllables": [
+      "zhong",
+      "sheng",
+      "hai",
+      "zhong",
+      "bei",
+      "tong",
+      "yi",
+      "zi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 11,
+    "original": "具足六十韻音語",
+    "pinyin_syllables": [
+      "ju",
+      "zu",
+      "liu",
+      "shi",
+      "yun",
+      "yin",
+      "yu"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 12,
+    "original": "如大雷震煩惱睡起",
+    "pinyin_syllables": [
+      "ru",
+      "da",
+      "lei",
+      "zhen",
+      "fan",
+      "nao",
+      "shui",
+      "qi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 13,
+    "original": "業之鐵索為解脫",
+    "pinyin_syllables": [
+      "ye",
+      "zhi",
+      "tie",
+      "suo",
+      "wei",
+      "jie",
+      "tuo"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 14,
+    "original": "無明闇除苦之苗芽",
+    "pinyin_syllables": [
+      "wu",
+      "ming",
+      "an",
+      "chu",
+      "ku",
+      "zhi",
+      "miao",
+      "ya"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 15,
+    "original": "盡皆為斷揮寶劍",
+    "pinyin_syllables": [
+      "jin",
+      "jie",
+      "wei",
+      "duan",
+      "hui",
+      "bao",
+      "jian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 16,
+    "original": "從本清淨究竟十地",
+    "pinyin_syllables": [
+      "cong",
+      "ben",
+      "qing",
+      "jing",
+      "jiu",
+      "jing",
+      "shi",
+      "di"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 17,
+    "original": "功德身圓佛子最勝體",
+    "pinyin_syllables": [
+      "gong",
+      "de",
+      "shen",
+      "yuan",
+      "fu",
+      "zi",
+      "zui",
+      "sheng",
+      "ti"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 18,
+    "original": "百一十二相好莊嚴",
+    "pinyin_syllables": [
+      "bai",
+      "yi",
+      "shi",
+      "er",
+      "xiang",
+      "hao",
+      "zhuang",
+      "yan"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 19,
+    "original": "除我心闇敬禮妙吉祥",
+    "pinyin_syllables": [
+      "chu",
+      "wo",
+      "xin",
+      "an",
+      "jing",
+      "li",
+      "miao",
+      "ji",
+      "xiang"
+    ]
+  },
+  {
+    "type": "mantra",
+    "sentence_id": 20,
+    "original": "嗡阿惹巴雜那帝",
+    "pinyin_syllables": [
+      "weng",
+      "a",
+      "re",
+      "ba",
+      "za",
+      "na",
+      "di"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 21,
+    "original": "大悲尊以極遍智光明",
+    "pinyin_syllables": [
+      "da",
+      "bei",
+      "zun",
+      "yi",
+      "ji",
+      "bian",
+      "zhi",
+      "guang",
+      "ming"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 22,
+    "original": "盡除我心愚癡諸黑暗",
+    "pinyin_syllables": [
+      "jin",
+      "chu",
+      "wo",
+      "xin",
+      "yu",
+      "chi",
+      "zhu",
+      "hei",
+      "an"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 23,
+    "original": "契經及論教典皆證得",
+    "pinyin_syllables": [
+      "qi",
+      "jing",
+      "ji",
+      "lun",
+      "jiao",
+      "dian",
+      "jie",
+      "zheng",
+      "de"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 24,
+    "original": "願賜智慧辯才咸顯現",
+    "pinyin_syllables": [
+      "yuan",
+      "ci",
+      "zhi",
+      "hui",
+      "bian",
+      "cai",
+      "xian",
+      "xian",
+      "xian"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 25,
+    "original": "祈求增長聞思修慧能",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "zeng",
+      "zhang",
+      "wen",
+      "si",
+      "xiu",
+      "hui",
+      "neng"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 26,
+    "original": "祈求增長講論著智慧",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "zeng",
+      "zhang",
+      "jiang",
+      "lun",
+      "zhu",
+      "zhi",
+      "hui"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 27,
+    "original": "祈求賜予共不共悉地",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "ci",
+      "yu",
+      "gong",
+      "bu",
+      "gong",
+      "xi",
+      "di"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 28,
+    "original": "願速如尊成就祈加持",
+    "pinyin_syllables": [
+      "yuan",
+      "su",
+      "ru",
+      "zun",
+      "cheng",
+      "jiu",
+      "qi",
+      "jia",
+      "chi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 29,
+    "original": "祈求任運現覺智勝樂",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "ren",
+      "yun",
+      "xian",
+      "jue",
+      "zhi",
+      "sheng",
+      "le"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 30,
+    "original": "祈求速消除顛倒邪執",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "su",
+      "xiao",
+      "chu",
+      "dian",
+      "dao",
+      "xie",
+      "zhi"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 31,
+    "original": "祈求盡斷身心疑惑網",
+    "pinyin_syllables": [
+      "qi",
+      "qiu",
+      "jin",
+      "duan",
+      "shen",
+      "xin",
+      "yi",
+      "huo",
+      "wang"
+    ]
+  },
+  {
+    "type": "scripture",
+    "sentence_id": 32,
+    "original": "願速如尊成就祈加持",
+    "pinyin_syllables": [
+      "yuan",
+      "su",
+      "ru",
+      "zun",
+      "cheng",
+      "jiu",
+      "qi",
+      "jia",
+      "chi"
+    ]
+  }
+]
