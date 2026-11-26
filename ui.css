@@ -34,3 +34,10 @@
 @media(prefers-reduced-motion:reduce){#hearts .aspireHeart{display:none}#hearts .aspireStar{animation:none;opacity:.65}}
 
 #lineWarning{padding:clamp(5px,1.5dvh,14px);display:flex;align-items:center;justify-content:center}#lineWarning .lineWrap{width:min(100%,760px);margin:auto}#lineWarning .lineCard{padding:clamp(6px,1.7dvh,16px);border-width:2px;border-radius:16px;line-height:1.35}#lineWarning .lineCard section{padding:0}#lineWarning .lineCard h2{font-size:clamp(14px,min(4.8vw,5dvh),30px);margin:0 0 .22em}#lineWarning .lineCard p{font-size:clamp(12px,min(4.2vw,4.1dvh),24px);margin:0}#lineWarning .lineCard hr{margin:clamp(3px,1dvh,10px) 0}#reader:has(.memory){overflow:hidden;scroll-snap-type:none}
+
+/* WEB03.9.2: explicit starting-line highlight */
+.verseRow.chosenStart{background:#fff0a6;color:#845600;border-radius:8px}
+
+/* WEB03.9.3: reliable touch hit targets and clear selected state */
+#reader .verseRow[data-sid]{-webkit-user-select:none;user-select:none;touch-action:pan-y;cursor:pointer}
+#reader .verseRow.chosenStart{background:#ffe58a;color:#704900;box-shadow:inset 0 0 0 2px #d5a632}
