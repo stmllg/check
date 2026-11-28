@@ -1,3 +1,4 @@
+
 name: Build WEB03.9.3 and deploy
 on:
   workflow_dispatch:
@@ -36,7 +37,7 @@ jobs:
           python tools/verify_site.py
           python tools/catalog.py
           mkdir -p /tmp/site
-          cp -r index.html ui.css android.css apple.css platform.js panel.js app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg aspiration.webp scripture.json script models engine .nojekyll /tmp/site/
+          cp -r index.html clear_model.html ui.css android.css apple.css platform.js panel.js app.js recite-core.js pinyin.json worker.js pcm-worklet.js sw.js manifest.webmanifest icon.svg aspiration.webp scripture.json script models engine .nojekyll /tmp/site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/site
